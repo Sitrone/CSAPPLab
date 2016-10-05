@@ -7,6 +7,7 @@
 4. [Washington大学软硬件接口公开课](http://courses.cs.washington.edu/courses/cse351/14sp/)
 > 是CSAPP的一个子集，经典的Lab都移植过来了  
 5. [PDF英文版地址](http://csapp.cs.cmu.edu/2e/pieces/csapptalk.pdf)
+6. [CMU课程主页(授课老师为本书作者)](https://www.cs.cmu.edu/~213/)
 
 #### Ref:
 1. [CSAPP学习笔记](http://blog.csdn.net/cinmyheart/article/category/2537603)
